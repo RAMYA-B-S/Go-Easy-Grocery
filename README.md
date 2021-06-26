@@ -2,7 +2,7 @@
 
 This repository contains a project that is built using Django and React. It enables users to create their account, add items to the cart and purchase them.
 
-##System requirements
+## System requirements
 
 Operating System : Windows 10 <br/>
 Python Environment : Pycharm <br/>
